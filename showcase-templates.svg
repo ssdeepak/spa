@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Templates gallery placeholder screenshot">
+  <rect width="1280" height="720" fill="#0b1220"/>
+  <rect x="72" y="72" width="1136" height="576" rx="20" fill="#0f172a" stroke="#1f2937"/>
+  <g fill="#111827" stroke="#374151">
+    <rect x="112" y="124" width="320" height="220" rx="10"/>
+    <rect x="456" y="124" width="320" height="220" rx="10"/>
+    <rect x="800" y="124" width="320" height="220" rx="10"/>
+    <rect x="112" y="364" width="320" height="220" rx="10"/>
+    <rect x="456" y="364" width="320" height="220" rx="10"/>
+    <rect x="800" y="364" width="320" height="220" rx="10"/>
+  </g>
+  <text x="112" y="620" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Plan Templates & Gallery — Placeholder</text>
+  <text x="112" y="652" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Replace file: /public/showcase-templates.svg</text>
+</svg>

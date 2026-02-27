@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Rule Studio placeholder screenshot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="70" y="60" width="1140" height="600" rx="22" fill="#0b1220" stroke="#334155"/>
+  <rect x="70" y="60" width="1140" height="76" rx="22" fill="#111827"/>
+  <circle cx="112" cy="98" r="8" fill="#ef4444"/><circle cx="136" cy="98" r="8" fill="#f59e0b"/><circle cx="160" cy="98" r="8" fill="#10b981"/>
+  <rect x="96" y="165" width="240" height="28" rx="8" fill="url(#accent)"/>
+  <rect x="96" y="286" width="1088" height="320" rx="14" fill="#0f172a" stroke="#1e293b"/>
+  <rect x="132" y="338" width="170" height="56" rx="12" fill="#111827" stroke="#475569"/>
+  <rect x="392" y="338" width="170" height="56" rx="12" fill="#111827" stroke="#475569"/>
+  <rect x="652" y="338" width="170" height="56" rx="12" fill="#111827" stroke="#475569"/>
+  <rect x="912" y="338" width="170" height="56" rx="12" fill="#111827" stroke="#475569"/>
+  <line x1="302" y1="366" x2="392" y2="366" stroke="#64748b" stroke-width="4"/>
+  <line x1="562" y1="366" x2="652" y2="366" stroke="#64748b" stroke-width="4"/>
+  <line x1="822" y1="366" x2="912" y2="366" stroke="#64748b" stroke-width="4"/>
+  <text x="96" y="640" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="24">Rule Studio — Placeholder Screenshot</text>
+  <text x="96" y="672" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="18">Replace file: /public/showcase-rule-studio.svg</text>
+</svg>
