@@ -1,0 +1,31 @@
+<svg width="780" height="180" viewBox="0 0 780 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wl" x1="22" y1="22" x2="120" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="wr" x1="198" y1="22" x2="100" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FACC15"/>
+      <stop offset="0.5" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="252" y1="52" x2="744" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E2E8F0"/>
+      <stop offset="1" stop-color="#94A3B8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="219" height="179" rx="32" fill="#020617"/>
+  <rect x="0.5" y="0.5" width="219" height="179" rx="32" stroke="rgba(148,163,184,0.35)"/>
+  <path d="M109 77C82 50 47 47 29 66C14 82 14 110 31 126C50 144 80 140 105 114L109 110V77Z" fill="url(#wl)"/>
+  <path d="M113 77C140 50 175 47 193 66C208 82 208 110 191 126C172 144 142 140 117 114L113 110V77Z" fill="url(#wr)"/>
+  <rect x="104" y="35" width="14" height="108" rx="7" fill="#E2E8F0"/>
+
+  <text x="252" y="92" fill="url(#txt)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1.2">
+    cymoth
+  </text>
+  <text x="255" y="130" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="3">
+    ENTERPRISE
+  </text>
+</svg>
