@@ -1,0 +1,1 @@
+import{j as l}from"./index-Dfo1FMQY.js";const d=({children:s,className:a="",onClick:o,hoverable:r,glass:e,compact:t,noPadding:c,style:n})=>{const i=["mac-card",r?"hoverable":"",e?"glass":"",t?"compact":"",c?"nopadding":"",a].filter(Boolean).join(" ");return l.jsx("div",{className:i,onClick:o,style:n,children:s})};export{d as C};

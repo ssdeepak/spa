@@ -1,0 +1,1 @@
+function i(e){return(e.kind||"").toLowerCase().startsWith("llm")}function r(e){return(e||[]).filter(n=>!!n.connectionId&&!!n.isEnabled&&i(n))}function a(e){return(e||[]).filter(n=>!!n.connectionId&&!!n.alias&&!!n.isEnabled&&!i(n))}function l(e,n){return(e||[]).filter(t=>!!t.connectionId&&n.includes(t.connectionId)).map(t=>t.alias?.trim()).filter(t=>!!t)}export{a,l as b,r as g};
